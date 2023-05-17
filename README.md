@@ -2,7 +2,7 @@
  <img src="https://img5.goodfon.ru/wallpaper/nbig/5/f5/apple-minimalism-new.jpg" />
 </h1> -->
 
-<h1 align="center">Hi 👋, I'm Artyom Petrosyan</h1>
+<h1 align="liading">Hi 👋, I'm Artyom Petrosyan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artyompetros&label=Profile%20views&color=0e75b6&style=flat" alt="artyompetros" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/artyompetros" target="blank"><img src="https://img.shields.io/twitter/follow/artyompetros?logo=twitter&style=for-the-badge" alt="artyompetros" /></a> </p>
